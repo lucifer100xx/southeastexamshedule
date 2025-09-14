@@ -1,0 +1,458 @@
+Program,Slot,Date,Start Time,End Time,Course Code,Course Title,Students,Faculty,Faculty_Full,Faculty_Code,Start_Time,End_Time,Exam_Location
+D,Slot - K,2025-08-15,09:00:00,10:30:00,CSE265.15,Algorithm,34,[AP] Md. Anower Perves,Md. Anower Perves,AP,09:00:00,10:30:00,D - Slot - K
+D,Slot - K,2025-08-15,09:00:00,10:30:00,CSE343.8,Computer Architecture,21,[KAZ] Kazi Shahrier Rafid,Kazi Shahrier Rafid,KAZ,09:00:00,10:30:00,D - Slot - K
+D,Slot - K,2025-08-15,09:00:00,10:30:00,EEE181.16,Electrical Circuits Design I,37,[ADMR] Adib Md. Ridwan,Adib Md. Ridwan,ADMR,09:00:00,10:30:00,D - Slot - K
+D,Slot - K,2025-08-15,09:00:00,10:30:00,EEE181.18,Electrical Circuits Design I,28,[MDSM] Md. Shanian Moed,Md. Shanian Moed,MDSM,09:00:00,10:30:00,D - Slot - K
+D,Slot - K,2025-08-15,09:00:00,10:30:00,ENG101.37,Basic English Skills,32,[MSS] Surya Akhter Sumona,Surya Akhter Sumona,MSS,09:00:00,10:30:00,D - Slot - K
+D,Slot - K,2025-08-15,09:00:00,10:30:00,MAT241.16,Complex Variables and Transforms (Laplace & Fourier),40,[DKAM] Dr. Kh. Abdul Maleque,Dr. Kh. Abdul Maleque,DKAM,09:00:00,10:30:00,D - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,CSE341.2,Computer Networking,20,[AHQ] Mohammad Ashraful Hoque,Mohammad Ashraful Hoque,AHQ,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,CSE341.3,Computer Networking,19,[AHQ] Mohammad Ashraful Hoque,Mohammad Ashraful Hoque,AHQ,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,CSE341.7,Computer Networking,20,[AHQ] Mohammad Ashraful Hoque,Mohammad Ashraful Hoque,AHQ,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,EEE181.7,Electrical Circuits Design I,41,[YAM] Md. Bin Yeamin,Md. Bin Yeamin,YAM,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,EEE181.8,Electrical Circuits Design I,37,[YAM] Md. Bin Yeamin,Md. Bin Yeamin,YAM,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,ETE281.10,Communication Theory,39,[FAFA] Faika Fairuj Preotee,Faika Fairuj Preotee,FAFA,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,ETE281.11,Communication Theory,40,[FAFA] Faika Fairuj Preotee,Faika Fairuj Preotee,FAFA,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,ETE281.14,Communication Theory,41,[SUSN] Sumaiya Salekin,Sumaiya Salekin,SUSN,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,ETE281.15,Communication Theory,41,[SUSN] Sumaiya Salekin,Sumaiya Salekin,SUSN,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,MAT161.2,Coordinate Geometry and Vector Analysis,38,[GM] Golam Mostafa,Golam Mostafa,GM,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,MAT161.3,Coordinate Geometry and Vector Analysis,36,[GM] Golam Mostafa,Golam Mostafa,GM,09:00:00,10:30:00,C - Slot - K
+C,Slot - K,2025-08-15,09:00:00,10:30:00,MAT161.4,Coordinate Geometry and Vector Analysis,39,[GM] Golam Mostafa,Golam Mostafa,GM,09:00:00,10:30:00,C - Slot - K
+D,Slot - L,2025-08-15,11:30:00,13:00:00,CSE241.22,Data Structures,35,[LYPY] Lubna Yasmin Pinky,Lubna Yasmin Pinky,LYPY,11:30:00,13:00:00,D - Slot - L
+D,Slot - L,2025-08-15,11:30:00,13:00:00,CSE375.4,Advanced Algorithm,37,[ASHI] Mohammad Ashraful Islam,Mohammad Ashraful Islam,ASHI,11:30:00,13:00:00,D - Slot - L
+D,Slot - L,2025-08-15,11:30:00,13:00:00,CSE471.4,Web and Internet Programming,37,[AHS] Ashek Seum,Ashek Seum,AHS,11:30:00,13:00:00,D - Slot - L
+D,Slot - L,2025-08-15,11:30:00,13:00:00,EEE241.17,Electronic Devices & Circuits I,34,[SAMI] Sharika Manjuma Islam,Sharika Manjuma Islam,SAMI,11:30:00,13:00:00,D - Slot - L
+D,Slot - L,2025-08-15,11:30:00,13:00:00,MAT141.16,Differential & Integral Calculus,31,[DTKD] Dr. Taposh Kumar Das,Dr. Taposh Kumar Das,DTKD,11:30:00,13:00:00,D - Slot - L
+D,Slot - L,2025-08-15,11:30:00,13:00:00,MAT161.11,Coordinate Geometry and Vector Analysis,33,[MDH] Md. Mojaammel Haque,Md. Mojaammel Haque,MDH,11:30:00,13:00:00,D - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,CSE361.2,Operating Systems,29,[ABAH] Abid Ahmad,Abid Ahmad,ABAH,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,CSE361.3,Operating Systems,33,[ABAH] Abid Ahmad,Abid Ahmad,ABAH,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT161.5,Coordinate Geometry and Vector Analysis,40,[SHR] Md. Sarowar Hossain Rana,Md. Sarowar Hossain Rana,SHR,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT161.6,Coordinate Geometry and Vector Analysis,34,[SHR] Md. Sarowar Hossain Rana,Md. Sarowar Hossain Rana,SHR,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT161.7,Coordinate Geometry and Vector Analysis,39,[SHR] Md. Sarowar Hossain Rana,Md. Sarowar Hossain Rana,SHR,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT241.2,Complex Variables and Transforms (Laplace & Fourier),40,[SAMD] Shifat Ahmed,Shifat Ahmed,SAMD,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT241.3,Complex Variables and Transforms (Laplace & Fourier),40,[SAMD] Shifat Ahmed,Shifat Ahmed,SAMD,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT241.4,Complex Variables and Transforms (Laplace & Fourier),40,[SAMD] Shifat Ahmed,Shifat Ahmed,SAMD,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT241.11,Complex Variables and Transforms (Laplace & Fourier),23,[SHR] Md. Sarowar Hossain Rana,Md. Sarowar Hossain Rana,SHR,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT241.12,Complex Variables and Transforms (Laplace & Fourier),39,[SHR] Md. Sarowar Hossain Rana,Md. Sarowar Hossain Rana,SHR,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT241.13,Complex Variables and Transforms (Laplace & Fourier),41,[SHR] Md. Sarowar Hossain Rana,Md. Sarowar Hossain Rana,SHR,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT261.7,Linear Algebra and Matrices,40,[SAMD] Shifat Ahmed,Shifat Ahmed,SAMD,11:30:00,13:00:00,C - Slot - L
+C,Slot - L,2025-08-15,11:30:00,13:00:00,MAT261.9,Linear Algebra and Matrices,41,[SAMD] Shifat Ahmed,Shifat Ahmed,SAMD,11:30:00,13:00:00,C - Slot - L
+D,Slot - M,2025-08-15,14:30:00,16:00:00,CSE263.13,Digital Logic Design,35,[MHZ] Md. Zahid Hossain,Md. Zahid Hossain,MHZ,14:30:00,16:00:00,D - Slot - M
+D,Slot - M,2025-08-15,14:30:00,16:00:00,CSE341.11,Computer Networking,42,[DRAT] Dr. Ashis Talukder,Dr. Ashis Talukder,DRAT,14:30:00,16:00:00,D - Slot - M
+D,Slot - M,2025-08-15,14:30:00,16:00:00,CSE345.9,Information System Design & Software Engineering,26,[AKMA] A. K. M. Ahsanul Haque,A. K. M. Ahsanul Haque,AKMA,14:30:00,16:00:00,D - Slot - M
+D,Slot - M,2025-08-15,14:30:00,16:00:00,CSE4013.1,Computer Graphics and Animation,3,[RZC] Md. Reasad Zaman Chowdhury,Md. Reasad Zaman Chowdhury,RZC,14:30:00,16:00:00,D - Slot - M
+D,Slot - M,2025-08-15,14:30:00,16:00:00,CSE443.2,Computer Graphics & Animation,34,[RZC] Md. Reasad Zaman Chowdhury,Md. Reasad Zaman Chowdhury,RZC,14:30:00,16:00:00,D - Slot - M
+D,Slot - M,2025-08-15,14:30:00,16:00:00,SOC341.10,Engineering Ethics,41,[MEK] Mohammad Enamul Kabir,Mohammad Enamul Kabir,MEK,14:30:00,16:00:00,D - Slot - M
+D,Slot - M,2025-08-15,14:30:00,16:00:00,STA281.18,Statistical Methods & Probability,40,[DMAA] Dr. Md. Ayub Ali,Dr. Md. Ayub Ali,DMAA,14:30:00,16:00:00,D - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,CSE363.2,Microprocessor Design & Assembly Language Programming,42,[RADT] Radiathun Tasnia,Radiathun Tasnia,RADT,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,CSE363.3,Microprocessor Design & Assembly Language Programming,42,[SSSV] Shuvashis Sarker Shuvo,Shuvashis Sarker Shuvo,SSSV,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,ETE281.9,Communication Theory,41,[MMRF] Md. Mushfiqur Rahman Fakir,Md. Mushfiqur Rahman Fakir,MMRF,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT141.15,Differential & Integral Calculus,39,[SAMD] Shifat Ahmed,Shifat Ahmed,SAMD,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT241.5,Complex Variables and Transforms (Laplace & Fourier),39,[MALN] Md Alamin,Md Alamin,MALN,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT241.6,Complex Variables and Transforms (Laplace & Fourier),30,[MALN] Md Alamin,Md Alamin,MALN,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT241.7,Complex Variables and Transforms (Laplace & Fourier),40,[MALN] Md Alamin,Md Alamin,MALN,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT241.8,Complex Variables and Transforms (Laplace & Fourier),41,[MTK] Md. Tamim Khandakar,Md. Tamim Khandakar,MTK,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT241.9,Complex Variables and Transforms (Laplace & Fourier),41,[MTK] Md. Tamim Khandakar,Md. Tamim Khandakar,MTK,14:30:00,16:00:00,C - Slot - M
+C,Slot - M,2025-08-15,14:30:00,16:00:00,MAT241.10,Complex Variables and Transforms (Laplace & Fourier),38,[MTK] Md. Tamim Khandakar,Md. Tamim Khandakar,MTK,14:30:00,16:00:00,C - Slot - M
+D,Slot - N,2025-08-15,16:30:00,18:00:00,CSE181.20,Discrete Mathematics,36,[FBH] Md. Ferdous Bin Hafiz,Md. Ferdous Bin Hafiz,FBH,16:30:00,18:00:00,D - Slot - N
+D,Slot - N,2025-08-15,16:30:00,18:00:00,CSE265.14,Algorithm,30,[SHM] Md. Shamim,Md. Shamim,SHM,16:30:00,18:00:00,D - Slot - N
+D,Slot - N,2025-08-15,16:30:00,18:00:00,CSE281.18,Introduction to Programming Language II (Java),34,[MOHO] Mosarrof Hossain,Mosarrof Hossain,MOHO,16:30:00,18:00:00,D - Slot - N
+D,Slot - N,2025-08-15,16:30:00,18:00:00,CSE3011.1,Database Design,1,[RFD] Rifat Ahommed,Rifat Ahommed,RFD,16:30:00,18:00:00,D - Slot - N
+D,Slot - N,2025-08-15,16:30:00,18:00:00,CSE349.1,Mathematical Analysis for Computer Science (theory),31,[DMOS] Dr. Mohammad Shafiul Alam,Dr. Mohammad Shafiul Alam,DMOS,16:30:00,18:00:00,D - Slot - N
+D,Slot - N,2025-08-15,16:30:00,18:00:00,CSE383.6,Database Design,30,[RFD] Rifat Ahommed,Rifat Ahommed,RFD,16:30:00,18:00:00,D - Slot - N
+D,Slot - N,2025-08-15,16:30:00,18:00:00,EEE241.16,Electronic Devices & Circuits I,37,[SADS] Md. Sadman Amir,Md. Sadman Amir,SADS,16:30:00,18:00:00,D - Slot - N
+D,Slot - O,2025-08-15,19:00:00,20:30:00,CSE241.20,Data Structures,31,[RIM] Md. Robiul Islam,Md. Robiul Islam,RIM,19:00:00,20:30:00,D - Slot - O
+D,Slot - O,2025-08-15,19:00:00,20:30:00,CSE351.2,Advanced Java,26,[IMUD] Iftekher Mahmud,Iftekher Mahmud,IMUD,19:00:00,20:30:00,D - Slot - O
+D,Slot - O,2025-08-15,19:00:00,20:30:00,CSE363.6,Microprocessor Design & Assembly Language Programming,36,[DSAK] Prof. Dr. Shamim Akhter,Prof. Dr. Shamim Akhter,DSAK,19:00:00,20:30:00,D - Slot - O
+D,Slot - O,2025-08-15,19:00:00,20:30:00,CSE4047.1,Advanced Java,1,[IMUD] Iftekher Mahmud,Iftekher Mahmud,IMUD,19:00:00,20:30:00,D - Slot - O
+D,Slot - O,2025-08-15,19:00:00,20:30:00,CSE475.4,Management Information System,41,[MDSR] Mohammad Shohel Rana,Mohammad Shohel Rana,MDSR,19:00:00,20:30:00,D - Slot - O
+D,Slot - O,2025-08-15,19:00:00,20:30:00,MAT261.11,Linear Algebra and Matrices,28,[GKS] Goutam Kumar Saha,Goutam Kumar Saha,GKS,19:00:00,20:30:00,D - Slot - O
+D,Slot - O,2025-08-15,19:00:00,20:30:00,MGT281.15,Introduction to Business & Management,46,[ASNA] Abu Sayeed Nooruddin Ahmed,Abu Sayeed Nooruddin Ahmed,ASNA,19:00:00,20:30:00,D - Slot - O
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE161.7,Programming Language I,33,[NI] Md. Nazrul Islam,Md. Nazrul Islam,NI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE161.8,Programming Language I,33,[NI] Md. Nazrul Islam,Md. Nazrul Islam,NI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE161.9,Programming Language I,34,[NI] Md. Nazrul Islam,Md. Nazrul Islam,NI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE3015.1,Computer Architecture,1,[GZI] Dr. Gazi Zahirul Islam,Dr. Gazi Zahirul Islam,GZI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE343.2,Computer Architecture,40,[GZI] Dr. Gazi Zahirul Islam,Dr. Gazi Zahirul Islam,GZI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE343.3,Computer Architecture,40,[GZI] Dr. Gazi Zahirul Islam,Dr. Gazi Zahirul Islam,GZI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE343.4,Computer Architecture,40,[GZI] Dr. Gazi Zahirul Islam,Dr. Gazi Zahirul Islam,GZI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE343.5,Computer Architecture,40,[MAIM] Maisha Muntaha,Maisha Muntaha,MAIM,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE343.6,Computer Architecture,41,[MAIM] Maisha Muntaha,Maisha Muntaha,MAIM,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE343.11,Computer Architecture,40,[MAIM] Maisha Muntaha,Maisha Muntaha,MAIM,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE375.2,Advanced Algorithm,37,[DTBI] Md. Tauhid Bin Iqbal,Md. Tauhid Bin Iqbal,DTBI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,CSE375.3,Advanced Algorithm,38,[DTBI] Md. Tauhid Bin Iqbal,Md. Tauhid Bin Iqbal,DTBI,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,EEE181.3,Electrical Circuits Design I,37,[MDHB] Mahdin Mahboob,Mahdin Mahboob,MDHB,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,EEE181.4,Electrical Circuits Design I,40,[MDHB] Mahdin Mahboob,Mahdin Mahboob,MDHB,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,EEE241.8,Electronic Devices & Circuits I,40,[AIM] Ashraful Islam Mridha,Ashraful Islam Mridha,AIM,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,MAT141.8,Differential & Integral Calculus,38,[MTK] Md. Tamim Khandakar,Md. Tamim Khandakar,MTK,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,MAT141.9,Differential & Integral Calculus,39,[MTK] Md. Tamim Khandakar,Md. Tamim Khandakar,MTK,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 01,2025-08-17,09:30:00,11:00:00,MAT141.10,Differential & Integral Calculus,40,[MTK] Md. Tamim Khandakar,Md. Tamim Khandakar,MTK,09:30:00,11:00:00,C - Slot - 01
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,CSE161.10,Programming Language I,33,[MAQ] Mohammad Ariful Huq,Mohammad Ariful Huq,MAQ,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,CSE161.11,Programming Language I,27,[MAQ] Mohammad Ariful Huq,Mohammad Ariful Huq,MAQ,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE181.13,Electrical Circuits Design I,39,[MAMA] Mayukh Mallick,Mayukh Mallick,MAMA,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.2,Electronic Devices & Circuits I,40,[JHT] Jahid Hasan Tushar,Jahid Hasan Tushar,JHT,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.3,Electronic Devices & Circuits I,40,[JHT] Jahid Hasan Tushar,Jahid Hasan Tushar,JHT,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.6,Electronic Devices & Circuits I,27,[MDHB] Mahdin Mahboob,Mahdin Mahboob,MDHB,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.7,Electronic Devices & Circuits I,34,[MDHB] Mahdin Mahboob,Mahdin Mahboob,MDHB,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.11,Electronic Devices & Circuits I,39,[ASH] Ahnaf Shahriyar,Ahnaf Shahriyar,ASH,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.12,Electronic Devices & Circuits I,40,[ASH] Ahnaf Shahriyar,Ahnaf Shahriyar,ASH,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,EEE241.14,Electronic Devices & Circuits I,34,[MTM] Md. Tanzid Mia,Md. Tanzid Mia,MTM,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,ETE281.5,Communication Theory,36,[TANA] Tanvir Ahmed,Tanvir Ahmed,TANA,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,ETE281.7,Communication Theory,35,[BIPA] Bidyarthi Paul,Bidyarthi Paul,BIPA,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,ETE281.8,Communication Theory,16,[BIPA] Bidyarthi Paul,Bidyarthi Paul,BIPA,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,ETE281.12,Communication Theory,31,[ALL] AL Faysal,AL Faysal,ALL,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,ETE281.13,Communication Theory,17,[ALL] AL Faysal,AL Faysal,ALL,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,MAT141.7,Differential & Integral Calculus,39,[MKP] Mrityunjoy Kumar Pandit,Mrityunjoy Kumar Pandit,MKP,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 02,2025-08-17,12:00:00,13:30:00,MAT141.14,Differential & Integral Calculus,38,[MKP] Mrityunjoy Kumar Pandit,Mrityunjoy Kumar Pandit,MKP,12:00:00,13:30:00,C - Slot - 02
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,CSE141.11,Computer Fundamentals,38,[MRAI] Md. Rashedul Islam,Md. Rashedul Islam,MRAI,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,CSE141.13,Computer Fundamentals,39,[MRAI] Md. Rashedul Islam,Md. Rashedul Islam,MRAI,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,CSE4033.1,Web and Internet Programming,3,[ABAH] Abid Ahmad,Abid Ahmad,ABAH,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,CSE471.2,Web and Internet Programming,38,[ABAH] Abid Ahmad,Abid Ahmad,ABAH,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,CSE471.3,Web and Internet Programming,31,[ABAH] Abid Ahmad,Abid Ahmad,ABAH,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,EEE181.9,Electrical Circuits Design I,40,[SAAN] Sadribul Hassan,Sadribul Hassan,SAAN,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,EEE181.10,Electrical Circuits Design I,43,[IHS] Imran Hossain Sabuj,Imran Hossain Sabuj,IHS,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,EEE181.11,Electrical Circuits Design I,38,[IHS] Imran Hossain Sabuj,Imran Hossain Sabuj,IHS,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,EEE181.12,Electrical Circuits Design I,39,[ALA] Abdullah Saleh,Abdullah Saleh,ALA,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,EEE241.9,Electronic Devices & Circuits I,38,[KDZN] Khondokar Zahin,Khondokar Zahin,KDZN,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,EEE241.10,Electronic Devices & Circuits I,39,[KDZN] Khondokar Zahin,Khondokar Zahin,KDZN,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,MAT261.2,Linear Algebra and Matrices,40,[SBB] Md. Shohel Babu,Md. Shohel Babu,SBB,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,MAT261.3,Linear Algebra and Matrices,40,[SBB] Md. Shohel Babu,Md. Shohel Babu,SBB,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,MAT261.4,Linear Algebra and Matrices,39,[SBB] Md. Shohel Babu,Md. Shohel Babu,SBB,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,MAT261.5,Linear Algebra and Matrices,40,[SBB] Md. Shohel Babu,Md. Shohel Babu,SBB,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 03,2025-08-17,14:30:00,16:00:00,MAT261.6,Linear Algebra and Matrices,41,[SBB] Md. Shohel Babu,Md. Shohel Babu,SBB,14:30:00,16:00:00,C - Slot - 03
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.22,Basic English Skills,39,[SHMS] Sharif Mohammad Shahidullah,Sharif Mohammad Shahidullah,SHMS,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.23,Basic English Skills,39,[SHMS] Sharif Mohammad Shahidullah,Sharif Mohammad Shahidullah,SHMS,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.24,Basic English Skills,38,[TDS] Tripti Das,Tripti Das,TDS,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.25,Basic English Skills,39,[MFR] Md. Fozle Rabbi,Md. Fozle Rabbi,MFR,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.26,Basic English Skills,38,[SAIS] Sadia Islam,Sadia Islam,SAIS,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.27,Basic English Skills,36,[DAFN] Dewan Abul Fatah Naeem,Dewan Abul Fatah Naeem,DAFN,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.28,Basic English Skills,38,[RCL] Rasna Choudhury Liz,Rasna Choudhury Liz,RCL,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.29,Basic English Skills,37,[TAAM] Tazin Akhanda Meem,Tazin Akhanda Meem,TAAM,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.30,Basic English Skills,37,[STM] Sadia Tasnuva Moume,Sadia Tasnuva Moume,STM,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.31,Basic English Skills,40,[SAIS] Sadia Islam,Sadia Islam,SAIS,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.32,Basic English Skills,38,[SAIS] Sadia Islam,Sadia Islam,SAIS,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.33,Basic English Skills,38,[DAFN] Dewan Abul Fatah Naeem,Dewan Abul Fatah Naeem,DAFN,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.34,Basic English Skills,38,[RCL] Rasna Choudhury Liz,Rasna Choudhury Liz,RCL,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,ENG101.35,Basic English Skills,38,[MSW] Maeesha Wajid,Maeesha Wajid,MSW,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.2,Engineering Ethics,40,[DAKM] Prof. Dr. Abdul Kadar Muhammad Masum,Prof. Dr. Abdul Kadar Muhammad Masum,DAKM,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.3,Engineering Ethics,41,[DAKM] Prof. Dr. Abdul Kadar Muhammad Masum,Prof. Dr. Abdul Kadar Muhammad Masum,DAKM,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.4,Engineering Ethics,37,[DAKM] Prof. Dr. Abdul Kadar Muhammad Masum,Prof. Dr. Abdul Kadar Muhammad Masum,DAKM,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.5,Engineering Ethics,39,[MBH] Mahbubul Haq Bhuiyan,Mahbubul Haq Bhuiyan,MBH,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.6,Engineering Ethics,41,[MBH] Mahbubul Haq Bhuiyan,Mahbubul Haq Bhuiyan,MBH,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.7,Engineering Ethics,41,[MBH] Mahbubul Haq Bhuiyan,Mahbubul Haq Bhuiyan,MBH,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 04,2025-08-18,09:30:00,11:00:00,SOC341.8,Engineering Ethics,40,[MBH] Mahbubul Haq Bhuiyan,Mahbubul Haq Bhuiyan,MBH,09:30:00,11:00:00,C - Slot - 04
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,CSE3027.1,Introduction to Embedded Systems,1,[MUM] Mustavi Ibne Masum,Mustavi Ibne Masum,MUM,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,CSE381.2,Introduction to Embedded Systems,33,[MUM] Mustavi Ibne Masum,Mustavi Ibne Masum,MUM,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,CSE381.3,Introduction to Embedded Systems,37,[MUM] Mustavi Ibne Masum,Mustavi Ibne Masum,MUM,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,EEE241.4,Electronic Devices & Circuits I,40,[ADMR] Adib Md. Ridwan,Adib Md. Ridwan,ADMR,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,EEE241.5,Electronic Devices & Circuits I,40,[ADMR] Adib Md. Ridwan,Adib Md. Ridwan,ADMR,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.16,Intermediate English Skills,42,[TNI] Tanzina Islam,Tanzina Islam,TNI,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.17,Intermediate English Skills,40,[TNI] Tanzina Islam,Tanzina Islam,TNI,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.18,Intermediate English Skills,41,[RCL] Rasna Choudhury Liz,Rasna Choudhury Liz,RCL,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.19,Intermediate English Skills,41,[JET] Jeba Tahsin,Jeba Tahsin,JET,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.20,Intermediate English Skills,41,[TAH] Tanjila Hossen,Tanjila Hossen,TAH,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.21,Intermediate English Skills,36,[IFA] Md. Iftekhar Arafath,Md. Iftekhar Arafath,IFA,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ENG102.22,Intermediate English Skills,42,[SAIS] Sadia Islam,Sadia Islam,SAIS,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ETE281.3,Communication Theory,42,[KRH] Khondker Rawan Hamid,Khondker Rawan Hamid,KRH,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ETE281.4,Communication Theory,42,[KRH] Khondker Rawan Hamid,Khondker Rawan Hamid,KRH,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 05,2025-08-18,12:00:00,13:30:00,ETE281.16,Communication Theory,40,[RARA] Raihan Amin Rana,Raihan Amin Rana,RARA,12:00:00,13:30:00,C - Slot - 05
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,CSE353.3,Introduction to Data Mining,28,[MAHB] Mahbub Hasan,Mahbub Hasan,MAHB,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,CSE383.3,Database Design,39,[NOHO] Noholi Islam Duti,Noholi Islam Duti,NOHO,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,CSE383.4,Database Design,40,[NOHO] Noholi Islam Duti,Noholi Islam Duti,NOHO,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.21,Advanced English Skills,22,[SAIS] Sadia Islam,Sadia Islam,SAIS,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.22,Advanced English Skills,40,[TAAM] Tazin Akhanda Meem,Tazin Akhanda Meem,TAAM,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.23,Advanced English Skills,40,[TDS] Tripti Das,Tripti Das,TDS,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.24,Advanced English Skills,41,[FAF] Fairuz Fariha,Fairuz Fariha,FAF,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.25,Advanced English Skills,40,[FAF] Fairuz Fariha,Fairuz Fariha,FAF,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.26,Advanced English Skills,41,[DAFN] Dewan Abul Fatah Naeem,Dewan Abul Fatah Naeem,DAFN,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.27,Advanced English Skills,40,[SHK] Shushmita Hossain Khan,Shushmita Hossain Khan,SHK,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.28,Advanced English Skills,42,[TAH] Tanjila Hossen,Tanjila Hossen,TAH,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.29,Advanced English Skills,40,[KHW] Kazi Humyra Wazeda,Kazi Humyra Wazeda,KHW,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.30,Advanced English Skills,39,[KHW] Kazi Humyra Wazeda,Kazi Humyra Wazeda,KHW,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.31,Advanced English Skills,39,[MIZ] Mohammad Inzamam,Mohammad Inzamam,MIZ,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.32,Advanced English Skills,39,[MIZ] Mohammad Inzamam,Mohammad Inzamam,MIZ,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.33,Advanced English Skills,38,[APZ] Anwar Parvez,Anwar Parvez,APZ,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 06,2025-08-18,14:30:00,16:00:00,ENG103.34,Advanced English Skills,23,[APZ] Anwar Parvez,Anwar Parvez,APZ,14:30:00,16:00:00,C - Slot - 06
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE263.9,Digital Logic Design,37,[JM] Jannatim Maisha,Jannatim Maisha,JM,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE263.10,Digital Logic Design,38,[JM] Jannatim Maisha,Jannatim Maisha,JM,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE281.4,Introduction to Programming Language II (Java),38,[NH] Nahid Hasan,Nahid Hasan,NH,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE281.5,Introduction to Programming Language II (Java),38,[NH] Nahid Hasan,Nahid Hasan,NH,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE281.6,Introduction to Programming Language II (Java),39,[NH] Nahid Hasan,Nahid Hasan,NH,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE281.10,Introduction to Programming Language II (Java),32,[NOOR] Asaduzzaman Noor,Asaduzzaman Noor,NOOR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE281.11,Introduction to Programming Language II (Java),22,[NOOR] Asaduzzaman Noor,Asaduzzaman Noor,NOOR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE281.15,Introduction to Programming Language II (Java),29,[MOHO] Mosarrof Hossain,Mosarrof Hossain,MOHO,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE475.2,Management Information System,31,[MDSR] Mohammad Shohel Rana,Mohammad Shohel Rana,MDSR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,CSE475.3,Management Information System,32,[MDSR] Mohammad Shohel Rana,Mohammad Shohel Rana,MDSR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,MAT141.2,Differential & Integral Calculus,40,[GM] Golam Mostafa,Golam Mostafa,GM,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,MAT141.4,Differential & Integral Calculus,39,[GM] Golam Mostafa,Golam Mostafa,GM,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,MAT141.11,Differential & Integral Calculus,38,[GM] Golam Mostafa,Golam Mostafa,GM,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,PHY181.2,Physics II,34,[TNHR] Tanver Hossain Refat,Tanver Hossain Refat,TNHR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,PHY181.3,Physics II,27,[TNHR] Tanver Hossain Refat,Tanver Hossain Refat,TNHR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,PHY181.4,Physics II,19,[TNHR] Tanver Hossain Refat,Tanver Hossain Refat,TNHR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 07,2025-08-19,09:30:00,11:00:00,PHY181.5,Physics II,31,[TNHR] Tanver Hossain Refat,Tanver Hossain Refat,TNHR,09:30:00,11:00:00,C - Slot - 07
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.2,Introduction to Programming Language II (Java),31,[MAKR] Dr. Mohammed Ashikur Rahman,Dr. Mohammed Ashikur Rahman,MAKR,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.3,Introduction to Programming Language II (Java),38,[MAKR] Dr. Mohammed Ashikur Rahman,Dr. Mohammed Ashikur Rahman,MAKR,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.7,Introduction to Programming Language II (Java),32,[MMSI] Mohammad Shahmidul Islam,Mohammad Shahmidul Islam,MMSI,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.8,Introduction to Programming Language II (Java),32,[MMSI] Mohammad Shahmidul Islam,Mohammad Shahmidul Islam,MMSI,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.9,Introduction to Programming Language II (Java),34,[MMSI] Mohammad Shahmidul Islam,Mohammad Shahmidul Islam,MMSI,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.12,Introduction to Programming Language II (Java),36,[FAZA] Fariha Zahin,Fariha Zahin,FAZA,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.13,Introduction to Programming Language II (Java),41,[FAZA] Fariha Zahin,Fariha Zahin,FAZA,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.14,Introduction to Programming Language II (Java),40,[FAZA] Fariha Zahin,Fariha Zahin,FAZA,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.16,Introduction to Programming Language II (Java),30,[ZAHA] Ziyan Shirin Raha,Ziyan Shirin Raha,ZAHA,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE281.17,Introduction to Programming Language II (Java),35,[ZAHA] Ziyan Shirin Raha,Ziyan Shirin Raha,ZAHA,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE3035.1,Information System Design & Software Engineering,1,[SDK] Shimul Dey Katha,Shimul Dey Katha,SDK,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE345.2,Information System Design & Software Engineering,36,[SDK] Shimul Dey Katha,Shimul Dey Katha,SDK,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE345.3,Information System Design & Software Engineering,40,[SDK] Shimul Dey Katha,Shimul Dey Katha,SDK,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE345.4,Information System Design & Software Engineering,39,[SDK] Shimul Dey Katha,Shimul Dey Katha,SDK,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE345.5,Information System Design & Software Engineering,34,[RADT] Radiathun Tasnia,Radiathun Tasnia,RADT,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE345.6,Information System Design & Software Engineering,34,[RADT] Radiathun Tasnia,Radiathun Tasnia,RADT,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 08,2025-08-19,12:00:00,13:30:00,CSE345.7,Information System Design & Software Engineering,34,[RADT] Radiathun Tasnia,Radiathun Tasnia,RADT,12:00:00,13:30:00,C - Slot - 08
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ACT141.1,Introduction to Accounting,40,[MNHA] Md. Nazmol Haque,Md. Nazmol Haque,MNHA,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ACT141.6,Introduction to Accounting,35,[KSR] Kali Shankar Roy,Kali Shankar Roy,KSR,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ACT141.12,Introduction to Accounting,40,[MNHA] Md. Nazmol Haque,Md. Nazmol Haque,MNHA,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.22,Public Speaking,32,[TAH] Tanjila Hossen,Tanjila Hossen,TAH,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.23,Public Speaking,28,[SSA] Sarazeen Saif Ahana,Sarazeen Saif Ahana,SSA,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.24,Public Speaking,32,[TAH] Tanjila Hossen,Tanjila Hossen,TAH,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.25,Public Speaking,35,[MSW] Maeesha Wajid,Maeesha Wajid,MSW,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.26,Public Speaking,29,[NCD] Nahin Chowdhury,Nahin Chowdhury,NCD,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.27,Public Speaking,29,[TAH] Tanjila Hossen,Tanjila Hossen,TAH,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.28,Public Speaking,32,[MSW] Maeesha Wajid,Maeesha Wajid,MSW,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.29,Public Speaking,31,[SHK] Shushmita Hossain Khan,Shushmita Hossain Khan,SHK,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.30,Public Speaking,30,[RCL] Rasna Choudhury Liz,Rasna Choudhury Liz,RCL,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,ENG105.32,Public Speaking,25,[JAK] Jakir,Jakir,JAK,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,MAT141.3,Differential & Integral Calculus,38,[MDAZ] Md. Asadujjaman,Md. Asadujjaman,MDAZ,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,MAT141.5,Differential & Integral Calculus,39,[MDAZ] Md. Asadujjaman,Md. Asadujjaman,MDAZ,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 09,2025-08-19,14:30:00,16:00:00,PHY161.9,Physics I,30,[MUKO] Mustofa Khalid Ovi,Mustofa Khalid Ovi,MUKO,14:30:00,16:00:00,C - Slot - 09
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE181.6,Discrete Mathematics,40,[AMH] Md. Asiful Islam Miah,Md. Asiful Islam Miah,AMH,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE181.7,Discrete Mathematics,39,[AMH] Md. Asiful Islam Miah,Md. Asiful Islam Miah,AMH,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE241.2,Data Structures,35,[SMA] Sakib Mahmud,Sakib Mahmud,SMA,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE241.3,Data Structures,39,[SMA] Sakib Mahmud,Sakib Mahmud,SMA,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE241.4,Data Structures,25,[SMA] Sakib Mahmud,Sakib Mahmud,SMA,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE241.14,Data Structures,29,[NALE] Nishat Anjum Lea,Nishat Anjum Lea,NALE,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE241.15,Data Structures,18,[NALE] Nishat Anjum Lea,Nishat Anjum Lea,NALE,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE241.16,Data Structures,27,[NALE] Nishat Anjum Lea,Nishat Anjum Lea,NALE,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.2,Algorithm,32,[RFD] Rifat Ahommed,Rifat Ahommed,RFD,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.3,Algorithm,32,[RFD] Rifat Ahommed,Rifat Ahommed,RFD,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.4,Algorithm,30,[SHM] Md. Shamim,Md. Shamim,SHM,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.5,Algorithm,31,[SHM] Md. Shamim,Md. Shamim,SHM,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.6,Algorithm,32,[AMH] Md. Asiful Islam Miah,Md. Asiful Islam Miah,AMH,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.7,Algorithm,32,[AMH] Md. Asiful Islam Miah,Md. Asiful Islam Miah,AMH,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.8,Algorithm,33,[AMH] Md. Asiful Islam Miah,Md. Asiful Islam Miah,AMH,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE265.10,Algorithm,28,[MAIM] Maisha Muntaha,Maisha Muntaha,MAIM,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE355.2,Image Processing,37,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE355.3,Image Processing,23,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,CSE355.4,Image Processing,35,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 10,2025-08-20,09:30:00,11:00:00,MAT141.12,Differential & Integral Calculus,38,[HASN] Hasnain Ahmed,Hasnain Ahmed,HASN,09:30:00,11:00:00,C - Slot - 10
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE161.2,Programming Language I,37,[SM] Shahriar Manzoor,Shahriar Manzoor,SM,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE161.3,Programming Language I,36,[SM] Shahriar Manzoor,Shahriar Manzoor,SM,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE161.4,Programming Language I,31,[FBH] Md. Ferdous Bin Hafiz,Md. Ferdous Bin Hafiz,FBH,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE161.5,Programming Language I,30,[FBH] Md. Ferdous Bin Hafiz,Md. Ferdous Bin Hafiz,FBH,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE161.6,Programming Language I,30,[FBH] Md. Ferdous Bin Hafiz,Md. Ferdous Bin Hafiz,FBH,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE181.2,Discrete Mathematics,38,[MHB] Md. Habibullah Belali,Md. Habibullah Belali,MHB,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE181.3,Discrete Mathematics,40,[KMU] Khandaker Mohammad Mohi Uddin,Khandaker Mohammad Mohi Uddin,KMU,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE181.4,Discrete Mathematics,40,[KMU] Khandaker Mohammad Mohi Uddin,Khandaker Mohammad Mohi Uddin,KMU,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE181.5,Discrete Mathematics,40,[KMU] Khandaker Mohammad Mohi Uddin,Khandaker Mohammad Mohi Uddin,KMU,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE181.16,Discrete Mathematics,34,[RKM] Md. Rakibul Islam,Md. Rakibul Islam,RKM,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE181.17,Discrete Mathematics,40,[MHB] Md. Habibullah Belali,Md. Habibullah Belali,MHB,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE241.8,Data Structures,40,[YMA] Muhammed Yaseen Morshed Adib,Muhammed Yaseen Morshed Adib,YMA,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE241.9,Data Structures,26,[YMA] Muhammed Yaseen Morshed Adib,Muhammed Yaseen Morshed Adib,YMA,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE241.10,Data Structures,38,[YMA] Muhammed Yaseen Morshed Adib,Muhammed Yaseen Morshed Adib,YMA,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE241.12,Data Structures,21,[MAQ] Mohammad Ariful Huq,Mohammad Ariful Huq,MAQ,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE241.13,Data Structures,16,[MAQ] Mohammad Ariful Huq,Mohammad Ariful Huq,MAQ,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE241.17,Data Structures,29,[MUM] Mustavi Ibne Masum,Mustavi Ibne Masum,MUM,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE359.4,Graph Theory,39,[SBP] Sajal Basak Partha,Sajal Basak Partha,SBP,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 11,2025-08-20,12:00:00,13:30:00,CSE359.5,Graph Theory,40,[SBP] Sajal Basak Partha,Sajal Basak Partha,SBP,12:00:00,13:30:00,C - Slot - 11
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,ACT141.5,Introduction to Accounting,38,[PAA] Prothoma Anmol,Prothoma Anmol,PAA,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,ACT141.14,Introduction to Accounting,37,[PAA] Prothoma Anmol,Prothoma Anmol,PAA,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,ACT141.15,Introduction to Accounting,32,[PAA] Prothoma Anmol,Prothoma Anmol,PAA,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE141.3,Computer Fundamentals,39,[MBH] Mahbubul Haq Bhuiyan,Mahbubul Haq Bhuiyan,MBH,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE141.8,Computer Fundamentals,39,[MBH] Mahbubul Haq Bhuiyan,Mahbubul Haq Bhuiyan,MBH,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE181.8,Discrete Mathematics,40,[TAJO] Tanjna Oriana,Tanjna Oriana,TAJO,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE181.13,Discrete Mathematics,40,[SHSH] Shoeb Mohammad Shahriar,Shoeb Mohammad Shahriar,SHSH,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE181.14,Discrete Mathematics,40,[SHSH] Shoeb Mohammad Shahriar,Shoeb Mohammad Shahriar,SHSH,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE241.5,Data Structures,39,[MHB] Md. Habibullah Belali,Md. Habibullah Belali,MHB,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE241.6,Data Structures,34,[MHB] Md. Habibullah Belali,Md. Habibullah Belali,MHB,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE241.7,Data Structures,32,[MHB] Md. Habibullah Belali,Md. Habibullah Belali,MHB,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE241.18,Data Structures,19,[DMIJ] Prof. Dr. Md. Ismail Jabiullah,Prof. Dr. Md. Ismail Jabiullah,DMIJ,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE265.11,Algorithm,31,[SDK] Shimul Dey Katha,Shimul Dey Katha,SDK,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE265.12,Algorithm,33,[SDK] Shimul Dey Katha,Shimul Dey Katha,SDK,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,CSE361.4,Operating Systems,37,[MMH] Md Moinul Hoque,Md Moinul Hoque,MMH,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 12,2025-08-20,14:30:00,16:00:00,ETE281.6,Communication Theory,41,[RIC] Rashik Iram Chowdhury,Rashik Iram Chowdhury,RIC,14:30:00,16:00:00,C - Slot - 12
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE261.10,Numerical Methods,28,[MMSI] Mohammad Shahmidul Islam,Mohammad Shahmidul Islam,MMSI,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE263.4,Digital Logic Design,40,[FUZ] Farhad Uz Zaman,Farhad Uz Zaman,FUZ,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE365.2,Artificial Intelligence,39,[DEMF] Prof. Dr. Dewan Md. Farid,Prof. Dr. Dewan Md. Farid,DEMF,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE365.3,Artificial Intelligence,36,[DEMF] Prof. Dr. Dewan Md. Farid,Prof. Dr. Dewan Md. Farid,DEMF,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE365.4,Artificial Intelligence,39,[DEMF] Prof. Dr. Dewan Md. Farid,Prof. Dr. Dewan Md. Farid,DEMF,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE365.5,Artificial Intelligence,37,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,CSE4041.1,Artificial Intelligence,2,[DEMF] Prof. Dr. Dewan Md. Farid,Prof. Dr. Dewan Md. Farid,DEMF,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,EEE181.2,Electrical Circuits Design I,40,[ADMR] Adib Md. Ridwan,Adib Md. Ridwan,ADMR,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,EEE181.5,Electrical Circuits Design I,39,[KRH] Khondker Rawan Hamid,Khondker Rawan Hamid,KRH,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,EEE181.6,Electrical Circuits Design I,40,[KRH] Khondker Rawan Hamid,Khondker Rawan Hamid,KRH,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,EEE181.14,Electrical Circuits Design I,40,[SS] Shahad Saroar,Shahad Saroar,SS,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,EEE181.15,Electrical Circuits Design I,40,[SS] Shahad Saroar,Shahad Saroar,SS,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,PHY161.6,Physics I,38,[AHR] Dr. Abul Hasnat Rubel,Dr. Abul Hasnat Rubel,AHR,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 13,2025-08-21,09:30:00,11:00:00,PHY161.7,Physics I,35,[AHR] Dr. Abul Hasnat Rubel,Dr. Abul Hasnat Rubel,AHR,09:30:00,11:00:00,C - Slot - 13
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,CSE141.1,Computer Fundamentals,39,[FUZ] Farhad Uz Zaman,Farhad Uz Zaman,FUZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,CSE141.2,Computer Fundamentals,39,[YMA] Muhammed Yaseen Morshed Adib,Muhammed Yaseen Morshed Adib,YMA,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,CSE141.6,Computer Fundamentals,36,[FUZ] Farhad Uz Zaman,Farhad Uz Zaman,FUZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,CSE141.7,Computer Fundamentals,40,[FUZ] Farhad Uz Zaman,Farhad Uz Zaman,FUZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,CSE141.9,Computer Fundamentals,38,[YMA] Muhammed Yaseen Morshed Adib,Muhammed Yaseen Morshed Adib,YMA,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,CSE141.12,Computer Fundamentals,38,[SHAP] Shahriar Parvej,Shahriar Parvej,SHAP,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,ECO461.1,Introduction to Economics,40,[SAZ] Sazeda Akter,Sazeda Akter,SAZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,ECO461.2,Introduction to Economics,40,[SAZ] Sazeda Akter,Sazeda Akter,SAZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,ECO461.4,Introduction to Economics,40,[SAZ] Sazeda Akter,Sazeda Akter,SAZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,ECO461.5,Introduction to Economics,39,[SAZ] Sazeda Akter,Sazeda Akter,SAZ,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,ECO461.6,Introduction to Economics,41,[TAAK] Taslima Akter,Taslima Akter,TAAK,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,ECO461.7,Introduction to Economics,40,[TAAK] Taslima Akter,Taslima Akter,TAAK,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,MGT281.2,Introduction to Business & Management,39,[DMH] Dr. M. Ataur Rahman,Dr. M. Ataur Rahman,DMH,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 14,2025-08-21,12:00:00,13:30:00,MGT281.13,Introduction to Business & Management,40,[DMH] Dr. M. Ataur Rahman,Dr. M. Ataur Rahman,DMH,12:00:00,13:30:00,C - Slot - 14
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE141.4,Computer Fundamentals,39,[DMHN] Dr. Md. Maruf Hassan,Dr. Md. Maruf Hassan,DMHN,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE141.5,Computer Fundamentals,37,[DMHN] Dr. Md. Maruf Hassan,Dr. Md. Maruf Hassan,DMHN,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE141.10,Computer Fundamentals,39,[NALE] Nishat Anjum Lea,Nishat Anjum Lea,NALE,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE141.14,Computer Fundamentals,39,[KMU] Khandaker Mohammad Mohi Uddin,Khandaker Mohammad Mohi Uddin,KMU,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE341.4,Computer Networking,35,[MUKH] Muhaimen Khan,Muhaimen Khan,MUKH,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE341.5,Computer Networking,38,[MUKH] Muhaimen Khan,Muhaimen Khan,MUKH,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,CSE341.6,Computer Networking,29,[MUKH] Muhaimen Khan,Muhaimen Khan,MUKH,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.2,Statistical Methods & Probability,40,[MAKR] Dr. Mohammed Ashikur Rahman,Dr. Mohammed Ashikur Rahman,MAKR,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.3,Statistical Methods & Probability,37,[MAHB] Mahbub Hasan,Mahbub Hasan,MAHB,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.4,Statistical Methods & Probability,29,[MAHB] Mahbub Hasan,Mahbub Hasan,MAHB,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.6,Statistical Methods & Probability,38,[MAHB] Mahbub Hasan,Mahbub Hasan,MAHB,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.11,Statistical Methods & Probability,40,[MEI] Dr. Md. Elias,Dr. Md. Elias,MEI,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.12,Statistical Methods & Probability,39,[MEI] Dr. Md. Elias,Dr. Md. Elias,MEI,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.13,Statistical Methods & Probability,41,[DRAD] Dr. Ramit Azad,Dr. Ramit Azad,DRAD,14:30:00,16:00:00,C - Slot - 15
+C,Slot - 15,2025-08-21,14:30:00,16:00:00,STA281.14,Statistical Methods & Probability,40,[DRAD] Dr. Ramit Azad,Dr. Ramit Azad,DRAD,14:30:00,16:00:00,C - Slot - 15
+D,Slot - A,2025-08-22,09:00:00,10:30:00,CSE181.19,Discrete Mathematics,41,[FBH] Md. Ferdous Bin Hafiz,Md. Ferdous Bin Hafiz,FBH,09:00:00,10:30:00,D - Slot - A
+D,Slot - A,2025-08-22,09:00:00,10:30:00,CSE281.19,Introduction to Programming Language II (Java),38,[RAJA] Md. Rafsan Jani,Md. Rafsan Jani,RAJA,09:00:00,10:30:00,D - Slot - A
+D,Slot - A,2025-08-22,09:00:00,10:30:00,CSE345.10,Information System Design & Software Engineering,34,[AKMA] A. K. M. Ahsanul Haque,A. K. M. Ahsanul Haque,AKMA,09:00:00,10:30:00,D - Slot - A
+D,Slot - A,2025-08-22,09:00:00,10:30:00,CSE473.1,Software Development and Project Management,45,[BBA] Bulbul Ahmed,Bulbul Ahmed,BBA,09:00:00,10:30:00,D - Slot - A
+D,Slot - A,2025-08-22,09:00:00,10:30:00,STA281.17,Statistical Methods & Probability,39,[DAAH] Dr. Ali Ahmed Howlader,Dr. Ali Ahmed Howlader,DAAH,09:00:00,10:30:00,D - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,ACT141.7,Introduction to Accounting,38,[JNS] Jannatul Naim Sweety,Jannatul Naim Sweety,JNS,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,ACT141.8,Introduction to Accounting,39,[MFT] Faria Akter,Faria Akter,MFT,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,ACT141.9,Introduction to Accounting,37,[JNS] Jannatul Naim Sweety,Jannatul Naim Sweety,JNS,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,ACT141.11,Introduction to Accounting,40,[MFT] Faria Akter,Faria Akter,MFT,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,CSE359.2,Graph Theory,40,[ANAR] Anika Rahman,Anika Rahman,ANAR,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,CSE359.3,Graph Theory,34,[ANAR] Anika Rahman,Anika Rahman,ANAR,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,MGT281.3,Introduction to Business & Management,40,[TNM] Tamanna Nusrat Meem,Tamanna Nusrat Meem,TNM,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,MGT281.4,Introduction to Business & Management,39,[BMU] Badhan Mustary,Badhan Mustary,BMU,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,MGT281.5,Introduction to Business & Management,38,[BMU] Badhan Mustary,Badhan Mustary,BMU,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,MGT281.8,Introduction to Business & Management,40,[TNM] Tamanna Nusrat Meem,Tamanna Nusrat Meem,TNM,09:00:00,10:30:00,C - Slot - A
+C,Slot - A,2025-08-22,09:00:00,10:30:00,MGT281.11,Introduction to Business & Management,40,[TNM] Tamanna Nusrat Meem,Tamanna Nusrat Meem,TNM,09:00:00,10:30:00,C - Slot - A
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE181.18,Discrete Mathematics,40,[SMA] Sakib Mahmud,Sakib Mahmud,SMA,11:30:00,13:00:00,D - Slot - B
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE265.16,Algorithm,39,[AP] Md. Anower Perves,Md. Anower Perves,AP,11:30:00,13:00:00,D - Slot - B
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE3031.1,Operating systems,1,[MMH] Md Moinul Hoque,Md Moinul Hoque,MMH,11:30:00,13:00:00,D - Slot - B
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE351.3,Advanced Java,31,[IMUD] Iftekher Mahmud,Iftekher Mahmud,IMUD,11:30:00,13:00:00,D - Slot - B
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE361.5,Operating Systems,24,[MMH] Md Moinul Hoque,Md Moinul Hoque,MMH,11:30:00,13:00:00,D - Slot - B
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE365.7,Artificial Intelligence,26,[KMU] Khandaker Mohammad Mohi Uddin,Khandaker Mohammad Mohi Uddin,KMU,11:30:00,13:00:00,D - Slot - B
+D,Slot - B,2025-08-22,11:30:00,13:00:00,CSE383.5,Database Design,27,[NAS] Noor Masrur,Noor Masrur,NAS,11:30:00,13:00:00,D - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,ACT141.3,Introduction to Accounting,38,[MAC] Mohammad Ahsan Chowdhury,Mohammad Ahsan Chowdhury,MAC,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,ACT141.4,Introduction to Accounting,39,[MAC] Mohammad Ahsan Chowdhury,Mohammad Ahsan Chowdhury,MAC,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,CSE261.6,Numerical Methods,40,[SHM] Md. Shamim,Md. Shamim,SHM,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,CSE261.7,Numerical Methods,40,[SHM] Md. Shamim,Md. Shamim,SHM,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,CSE383.2,Database Design,39,[RIC] Rashik Iram Chowdhury,Rashik Iram Chowdhury,RIC,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,MAT141.1,Differential & Integral Calculus,39,[MALN] Md Alamin,Md Alamin,MALN,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,MAT141.6,Differential & Integral Calculus,37,[MALN] Md Alamin,Md Alamin,MALN,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,MAT141.13,Differential & Integral Calculus,36,[MALN] Md Alamin,Md Alamin,MALN,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,MAT161.8,Coordinate Geometry and Vector Analysis,40,[MAR] Md. Anowar Hossain,Md. Anowar Hossain,MAR,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,MAT161.9,Coordinate Geometry and Vector Analysis,32,[MAR] Md. Anowar Hossain,Md. Anowar Hossain,MAR,11:30:00,13:00:00,C - Slot - B
+C,Slot - B,2025-08-22,11:30:00,13:00:00,MAT241.14,Complex Variables and Transforms (Laplace & Fourier),37,[MDH] Md. Mojaammel Haque,Md. Mojaammel Haque,MDH,11:30:00,13:00:00,C - Slot - B
+D,Slot - C,2025-08-22,14:30:00,16:00:00,CSE2013.2,Digital Logic Design,1,[AHQ] Mohammad Ashraful Hoque,Mohammad Ashraful Hoque,AHQ,14:30:00,16:00:00,D - Slot - C
+D,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.12,Numerical Methods,25,[SW] Mohammad Shamim Waheed,Mohammad Shamim Waheed,SW,14:30:00,16:00:00,D - Slot - C
+D,Slot - C,2025-08-22,14:30:00,16:00:00,CSE263.12,Digital Logic Design,36,[AHQ] Mohammad Ashraful Hoque,Mohammad Ashraful Hoque,AHQ,14:30:00,16:00:00,D - Slot - C
+D,Slot - C,2025-08-22,14:30:00,16:00:00,CSE355.5,Image Processing,36,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,14:30:00,16:00:00,D - Slot - C
+D,Slot - C,2025-08-22,14:30:00,16:00:00,MAT161.10,Coordinate Geometry and Vector Analysis,16,[DTKD] Dr. Taposh Kumar Das,Dr. Taposh Kumar Das,DTKD,14:30:00,16:00:00,D - Slot - C
+D,Slot - C,2025-08-22,14:30:00,16:00:00,PHY181.15,Physics II,44,[DAM] Dr. Abdulla Al Momin,Dr. Abdulla Al Momin,DAM,14:30:00,16:00:00,D - Slot - C
+D,Slot - C,2025-08-22,14:30:00,16:00:00,SOC341.12,Engineering Ethics,45,[SAKR] Salim Shadman Ankur,Salim Shadman Ankur,SAKR,14:30:00,16:00:00,D - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE181.10,Discrete Mathematics,40,[FAZA] Fariha Zahin,Fariha Zahin,FAZA,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE181.11,Discrete Mathematics,40,[FAZA] Fariha Zahin,Fariha Zahin,FAZA,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE181.12,Discrete Mathematics,31,[SW] Mohammad Shamim Waheed,Mohammad Shamim Waheed,SW,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.2,Numerical Methods,37,[TMD] Tashreef Muhammad,Tashreef Muhammad,TMD,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.3,Numerical Methods,38,[TMD] Tashreef Muhammad,Tashreef Muhammad,TMD,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.4,Numerical Methods,36,[TMD] Tashreef Muhammad,Tashreef Muhammad,TMD,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.5,Numerical Methods,21,[TMD] Tashreef Muhammad,Tashreef Muhammad,TMD,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.8,Numerical Methods,40,[NI] Md. Nazrul Islam,Md. Nazrul Islam,NI,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE261.9,Numerical Methods,39,[NI] Md. Nazrul Islam,Md. Nazrul Islam,NI,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,CSE441.6,Theory of Computing,37,[TAJO] Tanjna Oriana,Tanjna Oriana,TAJO,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,MGT281.14,Introduction to Business & Management,39,[MMMM] Dr. Mia Muhammad Mustafiz Munir,Dr. Mia Muhammad Mustafiz Munir,MMMM,14:30:00,16:00:00,C - Slot - C
+C,Slot - C,2025-08-22,14:30:00,16:00:00,PHY161.8,Physics I,40,[EJS] Emratul Jannat Swapna,Emratul Jannat Swapna,EJS,14:30:00,16:00:00,C - Slot - C
+D,Slot - D,2025-08-22,16:30:00,18:00:00,CSE141.15,Computer Fundamentals,23,[SSSV] Shuvashis Sarker Shuvo,Shuvashis Sarker Shuvo,SSSV,16:30:00,18:00:00,D - Slot - D
+D,Slot - D,2025-08-22,16:30:00,18:00:00,CSE241.19,Data Structures,39,[RIM] Md. Robiul Islam,Md. Robiul Islam,RIM,16:30:00,18:00:00,D - Slot - D
+D,Slot - D,2025-08-22,16:30:00,18:00:00,CSE363.5,Microprocessor Design & Assembly Language Programming,36,[DSAK] Prof. Dr. Shamim Akhter,Prof. Dr. Shamim Akhter,DSAK,16:30:00,18:00:00,D - Slot - D
+D,Slot - D,2025-08-22,16:30:00,18:00:00,CSE479.1,Cryptography & Network Security,40,[DMHN] Dr. Md. Maruf Hassan,Dr. Md. Maruf Hassan,DMHN,16:30:00,18:00:00,D - Slot - D
+D,Slot - D,2025-08-22,16:30:00,18:00:00,ENG105.36,Public Speaking,35,[DAR] Dr. Md. Abdur Rouf,Dr. Md. Abdur Rouf,DAR,16:30:00,18:00:00,D - Slot - D
+D,Slot - D,2025-08-22,16:30:00,18:00:00,MAT261.13,Linear Algebra and Matrices,39,[ARA] Md. Ashraful Alam,Md. Ashraful Alam,ARA,16:30:00,18:00:00,D - Slot - D
+D,Slot - E,2025-08-22,19:00:00,20:30:00,ACT141.16,Introduction to Accounting,36,[ASNA] Abu Sayeed Nooruddin Ahmed,Abu Sayeed Nooruddin Ahmed,ASNA,19:00:00,20:30:00,D - Slot - E
+D,Slot - E,2025-08-22,19:00:00,20:30:00,CSE441.4,Theory of Computing,42,[DAHO] Dr. Amran Hossain,Dr. Amran Hossain,DAHO,19:00:00,20:30:00,D - Slot - E
+D,Slot - E,2025-08-22,19:00:00,20:30:00,EEE181.17,Electrical Circuits Design I,26,[MDSM] Md. Shanian Moed,Md. Shanian Moed,MDSM,19:00:00,20:30:00,D - Slot - E
+D,Slot - E,2025-08-22,19:00:00,20:30:00,ENG101.36,Basic English Skills,28,[MSS] Surya Akhter Sumona,Surya Akhter Sumona,MSS,19:00:00,20:30:00,D - Slot - E
+D,Slot - E,2025-08-22,19:00:00,20:30:00,MGT281.16,Introduction to Business & Management,24,[ISH] Ishter Mahal,Ishter Mahal,ISH,19:00:00,20:30:00,D - Slot - E
+D,Slot - E,2025-08-22,19:00:00,20:30:00,PHY181.16,Physics II,38,[KDS] Kanta Das,Kanta Das,KDS,19:00:00,20:30:00,D - Slot - E
+D,Slot - F,2025-08-23,09:30:00,11:00:00,CSE261.13,Numerical Methods,42,[DMOS] Dr. Mohammad Shafiul Alam,Dr. Mohammad Shafiul Alam,DMOS,09:30:00,11:00:00,D - Slot - F
+D,Slot - F,2025-08-23,09:30:00,11:00:00,CSE281.21,Introduction to Programming Language II (Java),20,[AMR] Md. Aminur Rahman,Md. Aminur Rahman,AMR,09:30:00,11:00:00,D - Slot - F
+D,Slot - F,2025-08-23,09:30:00,11:00:00,ENG105.35,Public Speaking,30,[ZKM] Md. Ziaul Karim,Md. Ziaul Karim,ZKM,09:30:00,11:00:00,D - Slot - F
+D,Slot - F,2025-08-23,09:30:00,11:00:00,ETE281.17,Communication Theory,28,[MDSR] Mohammad Shohel Rana,Mohammad Shohel Rana,MDSR,09:30:00,11:00:00,D - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,CSE441.2,Theory of Computing,39,[NH] Nahid Hasan,Nahid Hasan,NH,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,CSE441.3,Theory of Computing,38,[NH] Nahid Hasan,Nahid Hasan,NH,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,PHY161.2,Physics I,36,[HDU] Md. Hedayet Ullah,Md. Hedayet Ullah,HDU,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,PHY161.3,Physics I,40,[HDU] Md. Hedayet Ullah,Md. Hedayet Ullah,HDU,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,PHY181.6,Physics II,39,[TSR] Dr. Tanu Arefin,Dr. Tanu Arefin,TSR,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,PHY181.7,Physics II,40,[TSR] Dr. Tanu Arefin,Dr. Tanu Arefin,TSR,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,PHY181.8,Physics II,38,[DMMA] Dr. Md. Murad Ahmed,Dr. Md. Murad Ahmed,DMMA,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,PHY181.9,Physics II,38,[DMMA] Dr. Md. Murad Ahmed,Dr. Md. Murad Ahmed,DMMA,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,STA281.7,Statistical Methods & Probability,40,[MDI] Md. Asraful Islam,Md. Asraful Islam,MDI,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,STA281.8,Statistical Methods & Probability,40,[MDI] Md. Asraful Islam,Md. Asraful Islam,MDI,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,STA281.9,Statistical Methods & Probability,40,[AKD] Dr. Anup Kumer Datta,Dr. Anup Kumer Datta,AKD,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,STA281.10,Statistical Methods & Probability,40,[AKD] Dr. Anup Kumer Datta,Dr. Anup Kumer Datta,AKD,09:30:00,11:00:00,C - Slot - F
+C,Slot - F,2025-08-23,09:30:00,11:00:00,STA281.15,Statistical Methods & Probability,40,[HASN] Hasnain Ahmed,Hasnain Ahmed,HASN,09:30:00,11:00:00,C - Slot - F
+D,Slot - G,2025-08-23,12:00:00,13:30:00,CSE265.13,Algorithm,28,[RFD] Rifat Ahommed,Rifat Ahommed,RFD,12:00:00,13:30:00,D - Slot - G
+D,Slot - G,2025-08-23,12:00:00,13:30:00,CSE281.20,Introduction to Programming Language II (Java),25,[AMR] Md. Aminur Rahman,Md. Aminur Rahman,AMR,12:00:00,13:30:00,D - Slot - G
+D,Slot - G,2025-08-23,12:00:00,13:30:00,CSE441.5,Theory of Computing,42,[DAHO] Dr. Amran Hossain,Dr. Amran Hossain,DAHO,12:00:00,13:30:00,D - Slot - G
+D,Slot - G,2025-08-23,12:00:00,13:30:00,ENG103.36,Advanced English Skills,20,[ZKM] Md. Ziaul Karim,Md. Ziaul Karim,ZKM,12:00:00,13:30:00,D - Slot - G
+D,Slot - G,2025-08-23,12:00:00,13:30:00,ENG105.37,Public Speaking,26,[DAR] Dr. Md. Abdur Rouf,Dr. Md. Abdur Rouf,DAR,12:00:00,13:30:00,D - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,ACT141.2,Introduction to Accounting,40,[RSP] Rayan Sanjana Prioty,Rayan Sanjana Prioty,RSP,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,ACT141.10,Introduction to Accounting,40,[RSP] Rayan Sanjana Prioty,Rayan Sanjana Prioty,RSP,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,ACT141.13,Introduction to Accounting,39,[RSP] Rayan Sanjana Prioty,Rayan Sanjana Prioty,RSP,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,ECO461.3,Introduction to Economics,40,[MSAS] Mustafa Saadman Sakib,Mustafa Saadman Sakib,MSAS,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,MGT281.1,Introduction to Business & Management,39,[TBK] Tasnim Binte Kabir,Tasnim Binte Kabir,TBK,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,MGT281.9,Introduction to Business & Management,39,[TBK] Tasnim Binte Kabir,Tasnim Binte Kabir,TBK,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,PHY161.4,Physics I,39,[RS] Rajia Sultana,Rajia Sultana,RS,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,PHY161.5,Physics I,39,[RS] Rajia Sultana,Rajia Sultana,RS,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,PHY181.10,Physics II,39,[DMAZ] Dr. Md. Azizar Rahman,Dr. Md. Azizar Rahman,DMAZ,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,PHY181.11,Physics II,40,[DMAZ] Dr. Md. Azizar Rahman,Dr. Md. Azizar Rahman,DMAZ,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,PHY181.12,Physics II,40,[DHA] Dr. Hasina Akther,Dr. Hasina Akther,DHA,12:00:00,13:30:00,C - Slot - G
+C,Slot - G,2025-08-23,12:00:00,13:30:00,PHY181.13,Physics II,40,[DHA] Dr. Hasina Akther,Dr. Hasina Akther,DHA,12:00:00,13:30:00,C - Slot - G
+D,Slot - H,2025-08-23,14:30:00,16:00:00,EEE241.15,Electronic Devices & Circuits I,32,[SADS] Md. Sadman Amir,Md. Sadman Amir,SADS,14:30:00,16:00:00,D - Slot - H
+D,Slot - H,2025-08-23,14:30:00,16:00:00,MAT241.15,Complex Variables and Transforms (Laplace & Fourier),28,[DKAM] Dr. Kh. Abdul Maleque,Dr. Kh. Abdul Maleque,DKAM,14:30:00,16:00:00,D - Slot - H
+D,Slot - H,2025-08-23,14:30:00,16:00:00,SOC341.9,Engineering Ethics,42,[MEK] Mohammad Enamul Kabir,Mohammad Enamul Kabir,MEK,14:30:00,16:00:00,D - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE2013.1,Digital Logic Design,0,[JHT] Jahid Hasan Tushar,Jahid Hasan Tushar,JHT,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE263.2,Digital Logic Design,40,[JHT] Jahid Hasan Tushar,Jahid Hasan Tushar,JHT,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE263.3,Digital Logic Design,41,[JHT] Jahid Hasan Tushar,Jahid Hasan Tushar,JHT,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE263.5,Digital Logic Design,40,[TAJO] Tanjna Oriana,Tanjna Oriana,TAJO,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE263.6,Digital Logic Design,38,[TAJO] Tanjna Oriana,Tanjna Oriana,TAJO,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE263.7,Digital Logic Design,37,[TAJO] Tanjna Oriana,Tanjna Oriana,TAJO,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE341.8,Computer Networking,39,[MDAM] Md. A. M. Reza Khan,Md. A. M. Reza Khan,MDAM,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE343.10,Computer Architecture,39,[RKM] Md. Rakibul Islam,Md. Rakibul Islam,RKM,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE363.4,Microprocessor Design & Assembly Language Programming,42,[RARA] Raihan Amin Rana,Raihan Amin Rana,RARA,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE4011.1,Computer Networking,1,[MDAM] Md. A. M. Reza Khan,Md. A. M. Reza Khan,MDAM,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,CSE443.1,Computer Graphics & Animation,36,[DMIJ] Prof. Dr. Md. Ismail Jabiullah,Prof. Dr. Md. Ismail Jabiullah,DMIJ,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,MGT281.7,Introduction to Business & Management,40,[KFA] Kanis Fatema,Kanis Fatema,KFA,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,MGT281.10,Introduction to Business & Management,40,[KFA] Kanis Fatema,Kanis Fatema,KFA,14:30:00,16:00:00,C - Slot - H
+C,Slot - H,2025-08-23,14:30:00,16:00:00,MGT281.12,Introduction to Business & Management,40,[KFA] Kanis Fatema,Kanis Fatema,KFA,14:30:00,16:00:00,C - Slot - H
+D,Slot - I,2025-08-23,17:00:00,18:30:00,CSE343.7,Computer Architecture,28,[KAZ] Kazi Shahrier Rafid,Kazi Shahrier Rafid,KAZ,17:00:00,18:30:00,D - Slot - I
+D,Slot - I,2025-08-23,17:00:00,18:30:00,CSE381.4,Introduction to Embedded Systems,45,[GRB] Golam Rabbany,Golam Rabbany,GRB,17:00:00,18:30:00,D - Slot - I
+D,Slot - I,2025-08-23,17:00:00,18:30:00,MAT261.10,Linear Algebra and Matrices,28,[GKS] Goutam Kumar Saha,Goutam Kumar Saha,GKS,17:00:00,18:30:00,D - Slot - I
+D,Slot - I,2025-08-23,17:00:00,18:30:00,PHY161.10,Physics I,40,[MUKO] Mustofa Khalid Ovi,Mustofa Khalid Ovi,MUKO,17:00:00,18:30:00,D - Slot - I
+D,Slot - I,2025-08-23,17:00:00,18:30:00,PHY161.11,Physics I,19,[MUKO] Mustofa Khalid Ovi,Mustofa Khalid Ovi,MUKO,17:00:00,18:30:00,D - Slot - I
+D,Slot - I,2025-08-23,17:00:00,18:30:00,PHY181.14,Physics II,40,[DAM] Dr. Abdulla Al Momin,Dr. Abdulla Al Momin,DAM,17:00:00,18:30:00,D - Slot - I
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE1011.1,Programming Language I (C),2,[DRAT] Dr. Ashis Talukder,Dr. Ashis Talukder,DRAT,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE161.12,Programming Language I,25,[DRAT] Dr. Ashis Talukder,Dr. Ashis Talukder,DRAT,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE261.11,Numerical Methods,31,[SW] Mohammad Shamim Waheed,Mohammad Shamim Waheed,SW,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE263.11,Digital Logic Design,37,[TAT] Dr. Taslim Taher,Dr. Taslim Taher,TAT,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE341.9,Computer Networking,20,[AHQ] Mohammad Ashraful Hoque,Mohammad Ashraful Hoque,AHQ,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE343.9,Computer Architecture,39,[LYPY] Lubna Yasmin Pinky,Lubna Yasmin Pinky,LYPY,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE351.4,Advanced Java,30,[MUI] Md. Muhiminul Islam,Md. Muhiminul Islam,MUI,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE359.6,Graph Theory,27,[BBA] Bulbul Ahmed,Bulbul Ahmed,BBA,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE365.6,Artificial Intelligence,22,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,CSE4041.2,Artificial Intelligence,0,[MMJR] Md. Mijanur Rahman,Md. Mijanur Rahman,MMJR,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,ETE281.18,Communication Theory,23,[TANA] Tanvir Ahmed,Tanvir Ahmed,TANA,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,MAT241.17,Complex Variables and Transforms (Laplace & Fourier),42,[DMAA] Dr. Md. Ayub Ali,Dr. Md. Ayub Ali,DMAA,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,MAT261.12,Linear Algebra and Matrices,40,[ARA] Md. Ashraful Alam,Md. Ashraful Alam,ARA,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,SOC341.11,Engineering Ethics,43,[SAKR] Salim Shadman Ankur,Salim Shadman Ankur,SAKR,19:00:00,20:30:00,D - Slot - J
+D,Slot - J,2025-08-23,19:00:00,20:30:00,STA281.16,Statistical Methods & Probability,42,[DAAH] Dr. Ali Ahmed Howlader,Dr. Ali Ahmed Howlader,DAAH,19:00:00,20:30:00,D - Slot - J

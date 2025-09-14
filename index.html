@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEU - Exam Schedule Management System</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header__content">
+                <div class="header__logo">
+                    <h1>SEU Exam Schedule</h1>
+                    <p>Southeast University</p>
+                </div>
+                <nav class="header__nav">
+                    <button id="adminLoginBtn" class="btn btn--outline">Admin Login</button>
+                    <button id="adminLogoutBtn" class="btn btn--outline hidden">Admin Logout</button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <div class="main-layout">
+                <!-- Main Content Area -->
+                <div class="content-area">
+                    <!-- Search Section -->
+                    <section class="search-section">
+                        <h2>Find Your Exam Schedule</h2>
+                        <div class="search-bar">
+                            <input 
+                                type="text" 
+                                id="searchInput" 
+                                class="form-control" 
+                                placeholder="Search by course code, course name, or faculty..."
+                            >
+                        </div>
+                        <div class="results-info">
+                            <span id="resultsCount">0 exams found</span>
+                            <button id="clearSearchBtn" class="btn btn--sm btn--secondary">Clear Search</button>
+                        </div>
+                    </section>
+
+                    <!-- Exam Grid -->
+                    <section class="exam-section">
+                        <div class="exam-grid" id="examGrid">
+                            <!-- Exam cards will be populated by JavaScript -->
+                        </div>
+                    </section>
+
+                    <!-- Admin Panel -->
+                    <section id="adminPanel" class="admin-panel hidden">
+                        <div class="admin-panel__content">
+                            <h2>Admin Dashboard</h2>
+                            
+                            <!-- Stats -->
+                            <div class="admin-stats">
+                                <div class="stat-card">
+                                    <h3 id="totalExams">0</h3>
+                                    <p>Total Exams</p>
+                                </div>
+                                <div class="stat-card">
+                                    <h3 id="totalDates">0</h3>
+                                    <p>Exam Dates</p>
+                                </div>
+                                <div class="stat-card">
+                                    <h3 id="totalCourses">0</h3>
+                                    <p>Unique Courses</p>
+                                </div>
+                            </div>
+
+                            <!-- Actions -->
+                            <div class="admin-actions">
+                                <!-- Clear Data Section -->
+                                <div class="action-card">
+                                    <h3>Clear All Data</h3>
+                                    <p>Remove all exam data from the system</p>
+                                    <button id="clearDataBtn" class="btn btn--secondary">Clear All Data</button>
+                                </div>
+
+                                <!-- Import Data Section -->
+                                <div class="action-card">
+                                    <h3>Import Excel File</h3>
+                                    <p>Upload a .xlsx file with exam schedule data</p>
+                                    <div class="upload-section">
+                                        <input type="file" id="fileInput" class="form-control" accept=".xlsx,.xls">
+                                        <div class="upload-progress hidden" id="uploadProgress">
+                                            <div class="progress-bar">
+                                                <div class="progress-fill" id="progressFill"></div>
+                                            </div>
+                                            <span id="progressText">0%</span>
+                                        </div>
+                                        <button id="importBtn" class="btn btn--primary">Import Data</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Student Dashboard Sidebar -->
+                <aside class="student-dashboard" id="studentDashboard">
+                    <div class="dashboard-header">
+                        <h3>My Selected Exams</h3>
+                        <button id="toggleDashboard" class="btn btn--sm btn--outline">
+                            <span class="desktop-text">Hide</span>
+                            <span class="mobile-text">📋</span>
+                        </button>
+                    </div>
+                    
+                    <div class="dashboard-content" id="dashboardContent">
+                        <div class="selected-count">
+                            <span id="selectedCount">0</span> courses selected
+                        </div>
+                        
+                        <div class="selected-exams" id="selectedExams">
+                            <div class="no-selection">
+                                <p>Select individual course sections from the exam cards to build your schedule.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="dashboard-actions">
+                            <button id="clearSelectionsBtn" class="btn btn--sm btn--secondary btn--full-width">
+                                Clear All Selections
+                            </button>
+                            <button id="exportSelectedBtn" class="btn btn--sm btn--primary btn--full-width">
+                                Export Selected to PDF
+                            </button>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </main>
+
+    <!-- Admin Login Modal -->
+    <div id="loginModal" class="modal hidden">
+        <div class="modal__overlay"></div>
+        <div class="modal__content">
+            <div class="modal__header">
+                <h2>Admin Login</h2>
+                <button id="closeModalBtn" class="modal__close">&times;</button>
+            </div>
+            <form id="loginForm" class="modal__body">
+                <div class="form-group">
+                    <label for="username" class="form-label">Username:</label>
+                    <input type="text" id="username" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="password" class="form-label">Password:</label>
+                    <input type="password" id="password" class="form-control" required>
+                </div>
+                <div class="modal__footer">
+                    <button type="button" id="cancelLoginBtn" class="btn btn--secondary">Cancel</button>
+                    <button type="submit" class="btn btn--primary">Login</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="confirmModal" class="modal hidden">
+        <div class="modal__overlay"></div>
+        <div class="modal__content">
+            <div class="modal__header">
+                <h2 id="confirmTitle">Confirm Action</h2>
+                <button id="closeConfirmBtn" class="modal__close">&times;</button>
+            </div>
+            <div class="modal__body">
+                <p id="confirmMessage">Are you sure you want to proceed?</p>
+            </div>
+            <div class="modal__footer">
+                <button id="cancelConfirmBtn" class="btn btn--secondary">Cancel</button>
+                <button id="proceedConfirmBtn" class="btn btn--primary">Proceed</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay hidden">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p id="loadingText">Processing...</p>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast hidden">
+        <div class="toast__content">
+            <div class="toast__icon"></div>
+            <span class="toast__message"></span>
+            <button class="toast__close">&times;</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
